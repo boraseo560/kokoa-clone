@@ -1,3 +1,3 @@
 # Kokoa Clone
 
-HTML and CSS practice with the lectures from Nomad Coders (https://nomadcoders.co/kokoa-clone)
+Practicing HTML and CSS with the lectures from Nomad Coders (https://nomadcoders.co/kokoa-clone)
